@@ -1672,7 +1672,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #08ffff;
+  background: #ff38b5;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2755,4 +2755,16 @@ ul.breadcrumb li+li:last-child {
   .pagination {
     margin: 8px 0 0;
   }
+}
+body {
+  background: url("http://img.xker.com/xkerfiles/allimg/1801/09400454M-0.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
+.header-inner {
+  opacity: 0.8;
+}
+.main-inner {
+  opacity: 0.8;
 }
